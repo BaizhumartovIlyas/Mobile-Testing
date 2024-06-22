@@ -5,3 +5,4 @@
 ### Bug Report 
 - here is the [link](https://github.com/BaizhumartovIlyas/Mobile-Testing/blob/main/Test%20run%20-%20Ilyas%20Baizhumartov.pdf) for Test Run results
 - here is the [link](https://github.com/BaizhumartovIlyas/Mobile-Testing/commit/f8e23636d9bd82fa5f7bc7a12784f18e8f62f31f) for Report in XLSX
+- here is the [link](https://github.com/BaizhumartovIlyas/Mobile-Testing/blob/main/Quality%20Report%20-%20Ilyas%20Baizhumartov.pdf) for Quality Report
